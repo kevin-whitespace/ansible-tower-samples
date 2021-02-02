@@ -2,5 +2,6 @@
 collections:
  - name: ansible.posix
  - name: geerlingguy.php_roles
+   source: https://192.168.144.60/api/galaxy/content/community/
 
 
