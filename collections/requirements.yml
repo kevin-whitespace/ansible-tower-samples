@@ -1,6 +1,6 @@
 ---
 collections:
- - name: posix.acl
+ - name: ansible.posix
  - name: geerlingguy.php_roles
 
 
